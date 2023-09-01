@@ -1,4 +1,4 @@
-# tiny-docker: exploring the essence of docker using 100 lines of C/C++
+# tiny-docker: the essence of docker in 100 lines of C++
 
 To evaluate the filesystem segregation feature of this tiny-docker, you will initially need an additional ubuntu filesystem for tiny-docker execution and mounting activities.
 You can arrange this using your existing ubuntu with the subsequent instructions:
